@@ -1,0 +1,1 @@
+type Music = "Classic" | "Jazz" | "Rock"
