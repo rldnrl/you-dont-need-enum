@@ -1,28 +1,28 @@
 .classic {
-    margin-right: 0.5rem;
-    min-width: 18rem;
-    padding: 1rem;
-    color: white;
-    background-color: #0070f3;
-    font-size: 1rem;
-    border-radius: 10px;
+  margin-right: 0.5rem;
+  min-width: 18rem;
+  padding: 1rem;
+  color: white;
+  background-color: #0070f3;
+  font-size: 1rem;
+  border-radius: 10px;
 }
 
 .jazz {
-    margin-right: 0.5rem;
-    min-width: 18rem;
-    padding: 1rem;
-    color: white;
-    background-color: darkgoldenrod;
-    font-size: 1rem;
-    border-radius: 10px;
+  margin-right: 0.5rem;
+  min-width: 18rem;
+  padding: 1rem;
+  color: white;
+  background-color: darkgoldenrod;
+  font-size: 1rem;
+  border-radius: 10px;
 }
 
 .rock {
-    min-width: 18rem;
-    padding: 1rem;
-    color: white;
-    background-color: black;
-    font-size: 1rem;
-    border-radius: 10px;
+  min-width: 18rem;
+  padding: 1rem;
+  color: white;
+  background-color: black;
+  font-size: 1rem;
+  border-radius: 10px;
 }
