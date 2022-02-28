@@ -1,4 +1,4 @@
-# You Don't need enum
+# You don't need enum
 
 ## 만약에 여러분이 번들 사이즈에 신경 쓰는 프론트엔드 개발자라면 Enum을 사용하지 말아야합니다.
 
