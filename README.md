@@ -30,7 +30,7 @@ var MusicEnum;
 ```
 Page                                       Size     First Load JS
 ┌ ○ /                                      5.4 kB         75.6 kB
-├   └ css/e84706cfd0ce7001.css             643 B
+├   └ css/56a27c81fb818cc7.css             751 B
 ├   /_app                                  0 B            70.2 kB
 ├ ○ /404                                   194 B          70.4 kB
 └ λ /api/hello                             0 B            70.2 kB
